@@ -1,0 +1,1 @@
+rootProject.name = "tech.tscodes.chatapp-ktor-websocket"
